@@ -1,0 +1,61 @@
+.bg-gray-1 {
+    background-color: rgb(227, 21, 21);
+  }
+  
+.bg-gray-2 {
+    background-color: rgba(213, 213, 23, 0.86);
+  }
+  
+header {
+    /* Flexbox for Layout */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+main {
+    background-color: rgba(147, 225, 11, 0.86);
+ }
+
+#section-hero {
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#Wake {
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+}
+
+#Pleas {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+}
+  
+  #section-opening-hours {
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+footer {
+        background-color: rgba(223, 15, 178, 0.53);
+        height: 20vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+  
